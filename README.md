@@ -1,4 +1,4 @@
-# Digital Contracting Cloud Service Seed
+# Fortellis Admin API
 A Spring Boot seed application to be used as a starting point for new cloud based services
 
 ## Configuration
