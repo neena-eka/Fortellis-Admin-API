@@ -1,0 +1,12 @@
+# Java template
+*.class
+
+# Package files
+*.jar
+*.war
+*.ear
+
+# Project files
+.idea
+*.iml
+target
